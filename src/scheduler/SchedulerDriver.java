@@ -15,6 +15,8 @@ import org.quartz.impl.StdSchedulerFactory;
 /**
  * Simple scheduler to print the current time. This code can be modified to perform
  * different tasks. This program uses Quartz scheduler.
+ * tutorial retrived and modified from http://www.quartz-scheduler.org/documentation/
+ *  quartz-2.2.x/tutorials/tutorial-lesson-02
  * @author Andrea 
  */
 public class SchedulerDriver {
